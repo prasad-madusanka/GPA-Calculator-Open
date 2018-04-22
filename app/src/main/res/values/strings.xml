@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GPA</string>
+    <string name="noOfSubs">No. of Subjects :</string>
+    <string name="next">Next</string>
+    <string name="passLimit">GPA to Pass :</string>
+    <string name="passDistinction">GPA to a Distinction :</string>
+
+    <string name="sub1">Subject 1</string>
+    <string name="sub2">Subject 2</string>
+    <string name="sub3">Subject 3</string>
+    <string name="sub4">Subject 4</string>
+    <string name="sub5">Subject 5</string>
+    <string name="sub6">Subject 6</string>
+    <string name="sub7">Subject 7</string>
+    <string name="sub8">Subject 8</string>
+    <string name="sub9">Subject 9</string>
+    <string name="sub10">Subject 10</string>
+    <string name="sub11">Subject 11</string>
+    <string name="sub12">Subject 12</string>
+    <string name="sub13">Subject 13</string>
+    <string name="sub14">Subject 14</string>
+    <string name="sub15">Subject 15</string>
+    <string name="sub16">Subject 16</string>
+    <string name="sub17">Subject 17</string>
+    <string name="sub18">Subject 18</string>
+    <string name="sub19">Subject 19</string>
+    <string name="sub20">Subject 20</string>
+    <string name="sub21">Subject 21</string>
+    <string name="sub22">Subject 22</string>
+    <string name="sub23">Subject 23</string>
+    <string name="sub24">Subject 24</string>
+    <string name="sub25">Subject 25</string>
+    <string name="sub26">Subject 26</string>
+    <string name="sub27">Subject 27</string>
+    <string name="sub28">Subject 28</string>
+    <string name="sub29">Subject 29</string>
+    <string name="sub30">Subject 30</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="contact">Contact Designer and the Developer of GPA Calculator</string>
+</resources>
